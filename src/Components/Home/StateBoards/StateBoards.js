@@ -9,7 +9,7 @@ import './StateBoards.css';
 const StateBoards = () => {
 
     return (
-        <div>
+        <div style={{marginTop:'-200px'}}>
             <h1 className="text-center" style={{ color: '#002db3' }}>
                 
                 State Boards
@@ -22,8 +22,8 @@ const StateBoards = () => {
                 
             </h6>
             <div className="parent2">
-                <img style={{ width: '500px', height: '350px' }} src={logo1} alt="" className="image4" />
-                <img style={{ width: '600px', height: '350px' }} src={logo1} alt="" className="image5" />
+                <img style={{ width: '450px', height: '350px' }} src={logo1} alt="" className="image4" />
+                <img style={{ width: '450px', height: '350px' }} src={logo1} alt="" className="image5" />
             </div>
 
 

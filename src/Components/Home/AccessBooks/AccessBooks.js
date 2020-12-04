@@ -23,7 +23,7 @@ const AccessBooks = () => {
             </div>
 
 
-            <div className="row" style={{ display: "flex", marginLeft: "150px" }}>
+            <div className="row" style={{ display: "flex", marginLeft: "100px" }}>
 
 
 

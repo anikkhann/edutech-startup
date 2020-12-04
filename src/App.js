@@ -19,47 +19,21 @@ function App() {
         <Navbar></Navbar>
         <Header></Header>
         <br/>
-        <br/>
-        <br/>
-        <br/>
         <SolveDoubts></SolveDoubts>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
+        <br/><br/><br/><br/>
         <HowItWorks></HowItWorks>
-        <br/>
-        <br/>
-        <br/>
         <br/>
         <LiveClasses></LiveClasses>
         <br/>
-        <br/>
-        <br/>
-        <br/>
         <AdvancePreparation></AdvancePreparation>
         <NeetPreparation></NeetPreparation>
-        
-        <br/>
-        <br/>
         <br/>
         <Subjects></Subjects>
-        <br/>
-        <br/>
-        <br/>
-        <br/>
-        
-        <AccessBooks></AccessBooks>  
-        <br/>
-        <br/>
-        <br/>
+        <br/><br/>
+        <AccessBooks></AccessBooks>
+        <br/><br/>
         <StateBoards></StateBoards>
         <br/>
-        <br/>
-        <br/>
-
         <StudentsReview></StudentsReview>
 
     </div>

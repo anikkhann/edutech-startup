@@ -12,8 +12,7 @@ const SolveDoubts = () => {
                     <div>
                         <h1>
 
-                           <span  style={{color:'#00001a', marginLeft:'80px'}}> Solve Your doubts</span> 
-                           <span  style={{color:'#002db3'}}>faster.</span> 
+                           <span  style={{color:'#00001a', marginLeft:'80px'}}> Solve Your doubts</span> <span  style={{color:'#002db3'}}>faster.</span> 
                            
                         </h1>
                     </div>
