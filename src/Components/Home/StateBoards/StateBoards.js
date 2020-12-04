@@ -9,7 +9,7 @@ import './StateBoards.css';
 const StateBoards = () => {
 
     return (
-        <div style={{marginTop:'-200px'}}>
+        <div style={{}}>
             <h1 className="text-center" style={{ color: '#002db3' }}>
                 
                 State Boards
