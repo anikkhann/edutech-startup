@@ -1,0 +1,26 @@
+.parent4 {
+    position: relative;
+    top: 0;
+    left: 0;
+
+  }
+  .image9 {
+    position: relative;
+    top: -170px;
+    left: 650px;
+    border-top-right-radius: 80%;
+    border-bottom-right-radius: 80%;
+  }
+  .image10 {
+    position: absolute;
+    top: -70px;
+    left: 700px;
+   
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+  }
+  .image11 {
+    position: absolute;  
+    transform: translate(8%, -210%);
+    right: 125px;
+  }
