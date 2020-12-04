@@ -6,7 +6,7 @@ import { faDownload } from '@fortawesome/free-solid-svg-icons';
 
 const StudentsReview = () => {
     return (
-        <div className="container" style={{marginTop:'-230px'}}>
+        <div className="container" >
             <h1 className="text-center">
                 <span style={{color:'#002db3'}}>See what our students have to say</span>
             </h1>
