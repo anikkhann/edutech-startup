@@ -21,6 +21,6 @@
   }
   .image11 {
     position: absolute;  
-    transform: translate(8%, -200%);
+    /* transform: translate(8%, -200%); */
     right: 125px;
   }

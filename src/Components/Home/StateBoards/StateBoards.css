@@ -25,7 +25,7 @@
   }
    .image6 {
     position: absolute;  
-    transform: translate(-30%, -200%);
+    /* transform: translate(-30%, -200%); */
     /* top: 50%;
     left:40%; */
     /* border-style:solid;
