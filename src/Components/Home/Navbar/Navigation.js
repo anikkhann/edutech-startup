@@ -4,7 +4,8 @@ import logos from "../../../logos/coursify.png";
 const Navigation = () => {
     return (
         <div>
-             <Navbar bg="none" >
+             <Navbar bg="none" fixed="top" >
+                    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Brand href="#home" style={{ marginLeft: '140px' }}>
 
                         <img style={{ width: '150px', marginLeft:'70px' }}

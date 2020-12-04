@@ -6,14 +6,14 @@
   }
   .image9 {
     position: relative;
-    top: -170px;
+    top: -150px;
     left: 650px;
     border-top-right-radius: 80%;
     border-bottom-right-radius: 80%;
   }
   .image10 {
     position: absolute;
-    top: -70px;
+    top: -50px;
     left: 700px;
    
     border-top-right-radius: 20%;
@@ -21,6 +21,6 @@
   }
   .image11 {
     position: absolute;  
-    transform: translate(8%, -210%);
+    transform: translate(8%, -200%);
     right: 125px;
   }
