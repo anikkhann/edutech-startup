@@ -20,7 +20,7 @@
     border-bottom-right-radius: 20%;
   }
   .image11 {
-    position: absolute;  
+    /* position: absolute;   */
     transform: translate(-50%, -200%);
     /* right: 125px; */
    }  
