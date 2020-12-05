@@ -5,7 +5,7 @@ const Navigation = () => {
     return (
         <div>
             {/* Navbar for showing different activities */}
-             <Navbar bg="dark" fixed="top" >
+             <Navbar bg="light" fixed="top" >
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Brand href="#home" style={{ marginLeft: '140px' }}>
 
