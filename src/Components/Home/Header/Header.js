@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import logos from '../../../logos/plain-white-background.jpg';
 import logos1 from '../../../logos/background-circle2-new.png';
 import './Header.css';
-import Popup from '../Popup/Popup';
 import { Button } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDownload } from '@fortawesome/free-solid-svg-icons';
@@ -65,7 +64,7 @@ const Header = () => {
                         />
                     </div>    
                   
-                <Popup modalIsOpen={modalIsOpen} closeModal={closeModal}></Popup>
+               
             </div>
             <br/>
            
