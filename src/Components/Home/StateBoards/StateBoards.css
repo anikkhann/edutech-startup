@@ -12,9 +12,9 @@
     border-bottom-right-radius: 80%; */
   }
   .image5 {
-    /* position: absolute; */
-    top: -40px;
-    left: 0%;
+    position: relative;
+    top: -30px;
+    right: 500px;
      border-top-right-radius: 5%;
      
      border-top-left-radius: 40%;
@@ -22,7 +22,7 @@
      border-bottom-left-radius: 40%;
 
     /* border-bottom-right-radius: 20%;  */
-  }
+  } 
    .image6 {
     /* position: absolute;   */
     transform: translate(0%, -190%);

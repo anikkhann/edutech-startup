@@ -7,7 +7,7 @@ import { faDownload } from '@fortawesome/free-solid-svg-icons';
 const StudentsReview = () => {
     return (
         //We will see how teacher teaches student on online 
-        <div className="container" style={{marginTop:'-170px'}}>
+        <div className="container" style={{marginTop:'-200px'}}>
             <h1 className="text-center">
                 <span style={{color:'#002db3'}}>See what our students have to say</span>
             </h1>

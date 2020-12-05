@@ -10,7 +10,7 @@ const StateBoards = () => {
 
     return (
         //In this component we will se all the state board syllabus for study
-        <div style={{}}>
+        <div style={{marginTop:'-250px'}}>
             <h1 className="text-center" style={{ color: '#002db3' }}>
                 
                 State Boards
