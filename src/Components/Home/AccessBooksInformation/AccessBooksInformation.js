@@ -3,6 +3,7 @@ import { Card } from 'react-bootstrap';
 const AccessBooksInformation = (props) => {
     const { img, title } = props.data;
     return (
+        //get all books information and set it to card
         <div className="col-md-2 m-2" style={{marginBottom:'20px'}}>
            
             <Card className="image11" style={{ width: '200px', height: '155px', borderRadius: '10px', border: '1px solid', padding: '10px', boxShadow: '4px 4px #888888' }}>

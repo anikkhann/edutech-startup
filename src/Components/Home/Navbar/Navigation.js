@@ -4,6 +4,7 @@ import logos from "../../../logos/coursify.png";
 const Navigation = () => {
     return (
         <div>
+            {/* Navbar for showing different activities */}
              <Navbar bg="none" fixed="top" >
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Brand href="#home" style={{ marginLeft: '140px' }}>

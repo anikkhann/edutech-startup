@@ -6,6 +6,7 @@ import './AccessBooks.css';
 
 const AccessBooks = () => {
     return (
+        //All the book information can find from this component 
         <div>
             <h1 className="text-center">
                 <span style={{ color: '#002db3' }}>Free access</span>
@@ -22,7 +23,7 @@ const AccessBooks = () => {
                 <img style={{ width: '450px', height: '350px' }} src={logos1} alt="" className="image10" />
             </div>
 
-
+            {/* map for send all the data to its child component */}
             <div className="row" style={{ display: "flex", marginLeft: "100px" }}>
 
 

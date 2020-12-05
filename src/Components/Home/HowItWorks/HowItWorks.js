@@ -9,6 +9,7 @@ import { faGreaterThan } from '@fortawesome/free-solid-svg-icons';
 
 const HowItWorks = () => {
     return (
+        //students will find their all information from this component
         <div className="container">
             <h1 
             

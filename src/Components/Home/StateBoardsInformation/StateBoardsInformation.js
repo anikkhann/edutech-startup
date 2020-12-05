@@ -7,7 +7,7 @@ const StateBoardsInformation = (props) => {
     const { img, title } = props.data;
 
     return (
-
+        //From this component we will see all the information of states syllabus  
         <div className="col-md-2 m-2" >
 
             <Card

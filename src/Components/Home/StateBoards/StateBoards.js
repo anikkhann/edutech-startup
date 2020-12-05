@@ -9,6 +9,7 @@ import './StateBoards.css';
 const StateBoards = () => {
 
     return (
+        //In this component we will se all the state board syllabus for study
         <div style={{}}>
             <h1 className="text-center" style={{ color: '#002db3' }}>
                 
@@ -26,10 +27,8 @@ const StateBoards = () => {
                 <img style={{ width: '450px', height: '350px' }} src={logo1} alt="" className="image5" />
             </div>
 
-
+            {/* map for sending states syllabus data to its child component */}
             <div className="row" style={{ display: "flex", marginLeft:"150px" }}>
-
-
 
                 {
                     createdData.map(data => <StateBoardsInformation data={data}></StateBoardsInformation>)

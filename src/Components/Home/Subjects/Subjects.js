@@ -8,6 +8,7 @@ import './Subjects.css';
 
 const Subjects = () => {
     return (
+        //We can see important subjects for increasing skill
         <div>
         <h1 className="text-center" style={{ color: '#002db3' }}>
             

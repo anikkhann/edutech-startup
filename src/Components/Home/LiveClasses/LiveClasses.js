@@ -6,6 +6,7 @@ import logo1 from '../../../logos/videoview.webp';
 
 const LiveClasses = () => {
     return (
+        //This component will show a video for better understanding of live classes 
         <div className="container">
              <h1 className="text-center">
                 <span style={{color:'#002db3'}}> LIVE</span> <span  style={{color:'#00001a'}}>classes</span>  

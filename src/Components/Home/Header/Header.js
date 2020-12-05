@@ -17,9 +17,9 @@ const Header = () => {
     function closeModal() {
         setIsOpen(false);
     }
-    // const [isOpen, setOpen] = useState(false)
-    return (
 
+    return (
+        //All the data of header stored in this component
         <main 
         
             style={{ height: '500px' }} className="row d-flex align-items-center"
